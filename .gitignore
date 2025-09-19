@@ -15,3 +15,5 @@ wheels/
 # data files
 outputs/shinhan/*
 !outputs/shinhan/*.json
+outputs/k_bank/*
+!outputs/k_bank/*.json
